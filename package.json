@@ -1,0 +1,27 @@
+{
+  "name": "ndukeabasi",
+  "version": "1.0.0",
+  "description": "personal project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "mento_mume",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "config": "^3.3.6",
+    "debug": "^4.3.1",
+    "express": "^4.17.1",
+    "joi": "^17.4.0",
+    "joi-password-complexity": "^5.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^5.12.5",
+    "morgan": "^1.10.0",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

@@ -1,0 +1,5 @@
+{
+    "name": "personal project",
+    "db":"mongodb://localhost/ndukeabasi",
+    "myprivatekey":""
+}
